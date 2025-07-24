@@ -128,7 +128,7 @@
     <a href="https://www.linkedin.com/in/prameesha-sathsarani-654889213/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     </a>
-    <a href="https://medium.com/@gayanpoornima" target="_blank">
+    <a href="https://medium.com/@PrameeshaSathsarani" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" />
     </a>
 </p>
