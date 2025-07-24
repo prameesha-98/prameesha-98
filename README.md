@@ -24,12 +24,35 @@
   
 <br/>
 <br><h2 align="center">My experience :office:</h2>
-Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developed some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.</br>
+Being an Associate Software QA Engineer at Sampath IT Solutions pvt ltd is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developed some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.</br>
 
 <br>
-<h2 align="center" > 🛠️ Languages and Tools <h3/>
+<h2 align="center" > 🛠️ Languages and Tools <h2/>
 <table align="center"> <tr> <td align="center" width="120"> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> <br/>Java </a> </td> <td align="center" width="120"> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" title="Selenium"/> <br/>Selenium </a> </td> <td align="center" width="120"> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="48"/> <br/>Postman </a> </td> <td align="center" width="120"> <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" title="JMeter" width="48"/> <br/>JMeter </a> </td> </tr> <tr> <td align="center" width="120"> <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" title="Jira"/> <br/>Jira </a> </td> <td align="center" width="120"> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/> <br/>Git </a> </td> <td align="center" width="120"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/> <br/>MySQL </a> </td> <td align="center" width="30"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/> <br/>PostgreSQL </a></td> </tr> </table>
 <br>
+<h2 align="center"> Tech Tools :wrench:</h2>
+<li>[Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management</li>
+<li>[Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project</li>
+<li> [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking</li>
+<li> [Slack](https://slack.com/) - communication within the team</li>
+<li> [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports</li>
+<li>[Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data</li>
+<li> [Git](https://git-scm.com/) - for better work in development team and controlling software versions</li>
+<li> [GitHub](https://github.com/) - supporting Git and preparing my repositories</li>
+<li>[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub</li>
+<li> [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL</li>
+<li>[Postman](https://www.postman.com/) - API testing</li>
+<li>[Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python</li>
+<li>[Selenium](https://www.selenium.dev/)</li>
+<li> [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS</li>
+<li>[Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)</li>
+<li> [Kibana](https://www.elastic.co/kibana)</li>
+<li>[TeamCity](https://www.jetbrains.com/teamcity/)</li>
+<li>(https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)</li>
+
+
+</br>
+  <br>
 <h2 align="center" > 📊 My Statistics </h2>
 
 <!--- stats & Trophy (start) -->
