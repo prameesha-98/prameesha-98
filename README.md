@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **jpsathsarani98@gmail.com**
   
-- 📄 Check out my [Resume](https:https://github.com/prameesha-98/prameesha-98/blob/main/Prameesha%20Sathsarani's%20CV.pdf)
+- 📄 Check out my [Resume](https://github.com/prameesha-98/prameesha-98/blob/main/Prameesha%20Sathsarani's%20CV.pdf)
   
 - ⚡ Fun fact: I love **Music, Gaming, and Reading**
   
