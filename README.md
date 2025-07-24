@@ -36,19 +36,19 @@ Being an Associate Software QA Engineer at Sampath IT Solutions pvt ltd is my fi
 <li><u><a href="https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager">[Qtest]</a></u> - bug tracking</li>
 <li><u><a href="https://slack.com/">[Slack]</a></u> - communication within the team</li>
 <li><u><a href="https://developer.chrome.com/docs/devtools/">[Chrome Devtools]</a></u> - for better testing and improving bug reports</li>
-<li><u><a href="https://www.google.com/intl/pl_pl/drive">[Google Drive]</a></u> - storing data</li>
-<li> [Git](https://git-scm.com/) - for better work in development team and controlling software versions</li>
-<li> [GitHub](https://github.com/) - supporting Git and preparing my repositories</li>
-<li>[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub</li>
-<li> [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL</li>
-<li>[Postman](https://www.postman.com/) - API testing</li>
-<li>[Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python</li>
-<li>[Selenium](https://www.selenium.dev/)</li>
-<li> [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS</li>
-<li>[Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)</li>
-<li> [Kibana](https://www.elastic.co/kibana)</li>
-<li>[TeamCity](https://www.jetbrains.com/teamcity/)</li>
-<li>(https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)</li>
+<li><u><a href="https://drive.google.com/drive/u/0/home">[Google Drive]</a></u> - storing data</li>
+<li><u><a href="https://git-scm.com/">[Git]</a></u> - for better work in development team and controlling software versions</li>
+<li><u><a href="https://github.com/">[Github]</a></u> - supporting Git and preparing my repositories</li>
+<li><u><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">[Markdown]</a></u> - for better and easy formatting GitHub</li>
+<li><u><a href="https://www.apachefriends.org/pl/index.html">[Xampp]</a></u>- practicing SQL</li>
+<li><u><a href="https://www.postman.com/">[Postman]</a></u>- API testing</li>
+<li><u><a href="https://www.jetbrains.com/pycharm/">[Pycharm]</a></u> - IDE for Python</li>
+<li><u><a href="https://www.selenium.dev/">[Selenium]</a></u></li>
+<li><u><a href="https://code.visualstudio.com/">[Visual Studio Code]</a></u>- practicing HTML and CSS</li>
+<li><u><a href="https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing">[Zephyr]</a></u></li>
+<li><u><a href="https://www.elastic.co/kibana">[Kibana]</a></u></li>
+<li><u><a href="https://www.jetbrains.com/teamcity/">[TeamCity]</a></u></li>
+<li><u><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">[SSMS]</a></u></li>
 
 
 </br>
