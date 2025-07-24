@@ -14,7 +14,7 @@
   
 - 🌱 Working as an **Associate Software QA Engineer at Sampath IT pvt ltd(IT Company of Sampath Bank)**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@prameeshasathsarani)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jpsathsarani98)
 
 - 📫 Reach me at **jpsathsarani98@gmail.com**
   
