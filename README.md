@@ -34,9 +34,9 @@ Being an Associate Software QA Engineer at Sampath IT Solutions pvt ltd is my fi
 <li><u><a href="https://www.atlassian.com/pl/software/jira"> [Jira]</a></u>, <u><a href="https://trello.com/pl/tour">[Trello]</a></u> - project management</li>
 <li><u><a href="https://www.atlassian.com/software/confluence">[Confluence]</a></u> - storing informations and documents about project</li>
 <li><u><a href="https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager">[Qtest]</a></u> - bug tracking</li>
-<li> [Slack](https://slack.com/) - communication within the team</li>
-<li> [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports</li>
-<li>[Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data</li>
+<li><u><a href="https://slack.com/">[Slack]</a></u> - communication within the team</li>
+<li><u><a href="https://developer.chrome.com/docs/devtools/">[Chrome Devtools]</a></u> - for better testing and improving bug reports</li>
+<li><u><a href="https://www.google.com/intl/pl_pl/drive">[Google Drive]</a></u> - storing data</li>
 <li> [Git](https://git-scm.com/) - for better work in development team and controlling software versions</li>
 <li> [GitHub](https://github.com/) - supporting Git and preparing my repositories</li>
 <li>[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub</li>
